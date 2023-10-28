@@ -1,0 +1,315 @@
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\appsettings.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.staticwebassets.runtime.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.exe
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.deps.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.runtimeconfig.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.pdb
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Enums.NET.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.Core.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OOXML.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.AssemblyReference.cache
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.AssemblyInfoInputs.cache
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.AssemblyInfo.cs
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.CoreCompileInputs.cache
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.RazorAssemblyInfo.cache
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.RazorAssemblyInfo.cs
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoExcel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoExcel.props
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoExcel.props
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoExcel.props
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\bundle\ProyectoExcel.styles.css
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoExcel.bundle.scp.css
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.CopyComplete
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\refint\ProyectoExcel.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.pdb
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.genruntimeconfig.cache
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ref\ProyectoExcel.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Humanizer.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MedallionTopologicalSort.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.IO.SpatiaLite.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Npgsql.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\UFG-01\Documents\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\appsettings.Development.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\appsettings.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.staticwebassets.runtime.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.exe
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.deps.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.runtimeconfig.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.pdb
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Enums.NET.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Humanizer.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MathNet.Numerics.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MedallionTopologicalSort.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MySqlConnector.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.IO.SpatiaLite.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Npgsql.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.Core.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OOXML.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SixLabors.Fonts.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.AssemblyReference.cache
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.AssemblyInfoInputs.cache
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.AssemblyInfo.cs
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.CoreCompileInputs.cache
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.MvcApplicationPartsAssemblyInfo.cache
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.RazorAssemblyInfo.cache
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.RazorAssemblyInfo.cs
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoExcel.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoExcel.props
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoExcel.props
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoExcel.props
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\bundle\ProyectoExcel.styles.css
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoExcel.bundle.scp.css
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.CopyComplete
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\refint\ProyectoExcel.dll
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.pdb
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.genruntimeconfig.cache
+E:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ref\ProyectoExcel.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\appsettings.Development.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\appsettings.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.staticwebassets.runtime.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.exe
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.deps.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.runtimeconfig.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ProyectoExcel.pdb
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Enums.NET.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Humanizer.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MedallionTopologicalSort.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\MySqlConnector.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.IO.SpatiaLite.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Npgsql.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.Core.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OOXML.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.AssemblyReference.cache
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.AssemblyInfoInputs.cache
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.AssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.CoreCompileInputs.cache
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.MvcApplicationPartsAssemblyInfo.cache
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.RazorAssemblyInfo.cache
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.RazorAssemblyInfo.cs
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoExcel.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoExcel.props
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoExcel.props
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoExcel.props
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\bundle\ProyectoExcel.styles.css
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\scopedcss\projectbundle\ProyectoExcel.bundle.scp.css
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.csproj.CopyComplete
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\refint\ProyectoExcel.dll
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.pdb
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ProyectoExcel.genruntimeconfig.cache
+D:\Ejercicios del curso NIVEL 2\ProyectoExcel\ProyectoExcel\obj\Debug\net6.0\ref\ProyectoExcel.dll
